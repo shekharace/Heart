@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "chartApp"
+    }
+  },
+  "defaultProject": "chartApp",
+  "cli": {
+    "analytics": "695c6c38-b187-483d-9b26-a6d970eec46e"
+  }
 }
